@@ -1,4 +1,5 @@
-# LSZFx MSFS2020 Mod
+# LSZF MSFS2020 Mod (Microsoft Flight Simulator 2020)
+Here it is 4 free the first mode of the beautiful Switzerland Airport Birrfeld Lupfig LSZF. I just began to work on it but and will go a head during the next weeks. Let me know what you think and what you expect
 
 
 # Installation
