@@ -3,7 +3,7 @@ Here it is 4 free the first mode of the beautiful Switzerland Airport Birrfeld L
 
 
 # Installation
-Download the Zip file LSZFx.zip, extract it and place the folder "LSZFx" folder in your community package folder. The community folder is located in the root structur from the flightsim directory.
+Go over to the Releses Download the latest Zip file steelwingsdesign-airport-lszf-birrfeld.zip , extract it and place the folder "steelwingsdesign-airport-lszf-birrfeld" folder in your community package folder. The community folder is located in the root structur from the flightsim directory. Start your Sim choos LSZF thats it :-).
 
 # Project description
 The installation replace the procedual generated Airport and will add the runway, taxiway, hangars and a lot more features based on the real beatiful airport. 
